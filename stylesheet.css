@@ -1,0 +1,60 @@
+.btn {
+ padding: 8px 20px;
+ font-size: 16px;
+ font-family: 'Roboto';
+ font-weight: 800;
+ text-transform: uppercase;
+ text-decoration: none;
+ text-align: center;
+ color: black;
+ border: 1px solid #000000 !important;
+ background: #b6b6b6;
+ cursor: pointer;
+ transition: .3s background,.3s color;
+ min-width:110px;
+}
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+.head {
+	font-size: 30px;
+}
+
+.desc {
+	font-size: 20px;
+}
+
+.mems {
+	font-size: 14px;
+}
+
+.ul {
+	font-size: 14px;
+}
+
+.background {
+    background-color: darkgray;
+}
+
+.words {
+    color: floralwhite
+}
+
+.nav {
+    display: block;
+}
+
+.nav {
+    display: none;
+}
+body, html {
+  background-attachment: fixed;
+  background-image: url('img/Node%20JS.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto Slab', serif;
+  margin: 0;
+}
