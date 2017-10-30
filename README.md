@@ -14,4 +14,5 @@ For the server to work, you must install body-parser and express otherwise it **
 To install the required dependencies, you type:
 
 `npm install body-parser`
+
 `npm install express`
